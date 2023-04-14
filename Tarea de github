@@ -23,3 +23,11 @@ Habilidades Cognitivas
 * Razonamiento
 
 * Compresion lectora.
+Comandos:
+git init
+git remote add origin https://github.com/Facumor4/Tarea-Github.git
+git status
+git add .
+git status
+git commit -m
+git push origin root
